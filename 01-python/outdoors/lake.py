@@ -1,3 +1,3 @@
 def draw_lake():
-    print("lake not found")
+    print("lake is blue, deep, and calm surface")
     return
